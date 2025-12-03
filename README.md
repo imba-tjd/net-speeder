@@ -8,3 +8,7 @@ Features：
 
 * 自动关闭~~及恢复~~tso
 * 静态编译，不用装库
+
+---
+
+其他软件：https://github.com/uk0/lotspeed
